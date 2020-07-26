@@ -1,0 +1,5 @@
+Para utilizar el padron nuevo, tengo que en el archivo csv enviado a issn:
+
+1- Reemplazar los ; por ,
+2- Cambiar el valor de la variable fecha en el codigo.
+3- Poner el nombre del nuevo archivo padron en el codigo.
